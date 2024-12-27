@@ -1,6 +1,6 @@
 # Turtlesim-Autonomous-Navigation
 
-A catch them all simulation utilizing ROS2 Jazzy dependencies.
+A catch them all simulation utilizing ROS2 Jazzy framework.
 
 I've included all the files neccesary to build this project from scratch.
 
