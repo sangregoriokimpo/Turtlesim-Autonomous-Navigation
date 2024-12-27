@@ -1,6 +1,7 @@
 # Turtlesim-Autonomous-Navigation
 
-A catch them all simulation utilizing ROS2 Jazzy framework.
+This simulation deploys an autonomous turtle object capable of dynamically navigating and capturing targets within a defined
+two-dimensional environment.
 
 I've included all the files neccesary to build this project from scratch.
 
